@@ -1,0 +1,16 @@
+# Dataset (too large for GitHub - download separately, see README)
+PlantVillage/
+
+# Exported models (large binary files)
+models/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
