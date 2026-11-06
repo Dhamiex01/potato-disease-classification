@@ -38,7 +38,7 @@ PlantVillage/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/potato-disease-classification.git
+git clone https://github.com/Dhamiex01/potato-disease-classification.git
 cd potato-disease-classification
 
 # 2. (Optional) create a virtual environment
@@ -61,10 +61,10 @@ Add your final test accuracy here, for example:
 
 | Metric | Value |
 |--------|-------|
-| Test accuracy | _xx.xx%_ |
-| Test loss | _x.xxxx_ |
+| Test accuracy | 95.70% |
+| Test loss | 10.19% |
 
-You can also add a screenshot of the training curves from the notebook.
+
 
 ## Notes
 
@@ -73,8 +73,5 @@ You can also add a screenshot of the training curves from the notebook.
 
 ## Author
 
-**Dhamiex'** - Electrical and Electronics Engineering, FUNAAB
+**Dhamiex'** 
 
-## License
-
-MIT (add a `LICENSE` file if you want to use this license).
